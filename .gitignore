@@ -1,0 +1,11 @@
+.idea
+
+*.iml
+/bin/
+.classpath
+.project
+.settings
+*.rej
+
+
+out/
